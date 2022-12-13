@@ -1,4 +1,3 @@
-
-abstract class MailService {
+export abstract class MailService {
   abstract sendEmail(): string;
 }
